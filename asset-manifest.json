@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.18f8187a.chunk.css",
+    "main.js": "/website/static/js/main.61dcdd3c.chunk.js",
+    "main.js.map": "/website/static/js/main.61dcdd3c.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.ba2867b0.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.ba2867b0.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/website/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.86cf31b0.chunk.js": "/website/static/js/2.86cf31b0.chunk.js",
+    "static/js/2.86cf31b0.chunk.js.map": "/website/static/js/2.86cf31b0.chunk.js.map",
+    "index.html": "/website/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/website/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.18f8187a.chunk.css.map": "/website/static/css/main.18f8187a.chunk.css.map",
+    "static/js/2.86cf31b0.chunk.js.LICENSE.txt": "/website/static/js/2.86cf31b0.chunk.js.LICENSE.txt",
+    "static/media/book.5cd80b89.jpg": "/website/static/media/book.5cd80b89.jpg",
+    "static/media/books.46870b5d.jpg": "/website/static/media/books.46870b5d.jpg",
+    "static/media/library.38390ce3.jpg": "/website/static/media/library.38390ce3.jpg",
+    "static/media/logo.df0a05a8.jpg": "/website/static/media/logo.df0a05a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba2867b0.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.86cf31b0.chunk.js",
+    "static/css/main.18f8187a.chunk.css",
+    "static/js/main.61dcdd3c.chunk.js"
+  ]
+}
